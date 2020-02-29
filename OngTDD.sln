@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OngTDD", "OngTDD\OngTDD.csproj", "{24880620-882D-449B-9743-D62B3518533A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnit-TDD", "xUnit-TDD\xUnit-TDD.csproj", "{9D929ACC-6BBA-404B-9B11-EEE7F3E3EB63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24880620-882D-449B-9743-D62B3518533A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24880620-882D-449B-9743-D62B3518533A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24880620-882D-449B-9743-D62B3518533A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24880620-882D-449B-9743-D62B3518533A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D929ACC-6BBA-404B-9B11-EEE7F3E3EB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D929ACC-6BBA-404B-9B11-EEE7F3E3EB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D929ACC-6BBA-404B-9B11-EEE7F3E3EB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D929ACC-6BBA-404B-9B11-EEE7F3E3EB63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D7F5D06-F41C-43DE-9748-32353E1772BA}
+	EndGlobalSection
+EndGlobal
